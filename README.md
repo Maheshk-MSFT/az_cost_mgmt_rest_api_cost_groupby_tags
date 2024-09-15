@@ -29,4 +29,45 @@
         ]
     }
 }
-</code>code>
+</code>
+
+<code>
+{
+    "id": "subscriptions/<sub_id>/providers/Microsoft.CostManagement/query/ae7b891d-b5f1-4ba0-9f59-16b6113c7a3a",
+    "name": "ae7b891d-b5f1-4ba0-9f59-16b6113c7a3a",
+    "type": "Microsoft.CostManagement/query",
+    "location": null,
+    "sku": null,
+    "eTag": null,
+    "properties": {
+        "nextLink": null,
+        "columns": [
+            {
+                "name": "PreTaxCost",
+                "type": "Number"
+            },
+            {
+                "name": "TagKey",
+                "type": "String"
+            },
+            {
+                "name": "TagValue",
+                "type": "String"
+            },
+            {
+                "name": "Currency",
+                "type": "String"
+            }
+        ],
+        "rows": [
+            [
+                169.5230799485,
+                "mytag1",
+                null,
+                "USD"
+            ]
+        ]
+    }
+}
+
+</code>
