@@ -1,6 +1,6 @@
 # How to get Azure resource cost by using Az_Cost_management API call - grouped by Tags  
 
----
+<code>
 {
     "type": "Usage",
     "timeframe": "MonthToDate",
@@ -20,4 +20,4 @@
         ]
     }
 }
----
+</code>code>
