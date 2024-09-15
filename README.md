@@ -31,6 +31,7 @@
 }
 </code>
 
+#### RESPONSE
 <code>
 {
     "id": "subscriptions/<sub_id>/providers/Microsoft.CostManagement/query/ae7b891d-b5f1-4ba0-9f59-16b6113c7a3a",
